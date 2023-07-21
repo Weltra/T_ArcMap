@@ -10,7 +10,8 @@
 <img src="https://github.com/Weltra/T_ArcMap/assets/140082971/ab7a27c8-1a2d-45ec-aced-b3e93767c6f5" alt="image" style="width:250px;" />
 
 ## 许可证
-本项目使用MIT许可：
+本项目使用MIT许可：[LICENSE](./LICENSE)
+
 
 
 
