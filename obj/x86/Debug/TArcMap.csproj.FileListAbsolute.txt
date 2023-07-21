@@ -1,0 +1,16 @@
+D:\test\testcs\MapControlApplication1\bin\Debug\TArcMap.exe
+D:\test\testcs\MapControlApplication1\bin\Debug\TArcMap.pdb
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.csprojResolveAssemblyReference.cache
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.GeoProcessing.BufferAnalysisTool.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.GeoProcessing.OverlayAnalysisTool.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.GeoProcessing.AttributeQueryForm.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.AttributeTable.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.GeoProcessing.frmGpTools.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.GpParameterCtrl.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.MainForm.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.Properties.Resources.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.GeoProcessing.SpatialQueryForm.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.csproj.GenerateResource.Cache
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.exe
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.pdb
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\TArcMap.Edit.EditVectorForm.resources

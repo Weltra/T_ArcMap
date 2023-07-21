@@ -1,0 +1,9 @@
+D:\test\testcs\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\test\testcs\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojResolveAssemblyReference.cache
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.Cache
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+D:\test\testcs\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AttributeTable.resources
