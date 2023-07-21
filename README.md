@@ -6,4 +6,7 @@
 - ArcEngine 10.2
 
 ## 项目安装
+使用vs，打开本项目的项目文件(我使用的版本为vs2012，更高版本的可能会有问题)：<br/>
 ![image](https://github.com/Weltra/T_ArcMap/assets/140082971/ffaa1cbc-f8cf-4543-a3d6-598197709532)
+
+
